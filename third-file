@@ -17,3 +17,5 @@ git rebase -i HEAD~3
   pick one
 
 git push origin local-branch-name
+  push local-branch to remote-same-branch-name
+
