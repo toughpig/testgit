@@ -1,1 +1,19 @@
-hello
+git checkout [-b] local-branch-name
+
+git add .
+git commit -m 'message'
+
+git status
+  to push
+  to commit
+  to add
+
+git log
+git log --oneline
+  commit-log
+
+git rebase -i HEAD~3
+  merge 3 commits to 1
+  pick one
+
+git push origin local-branch-name
